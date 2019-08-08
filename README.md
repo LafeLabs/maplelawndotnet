@@ -1,6 +1,6 @@
 # Maplelawn[dot]net
 
-Unofficial free open source web page for [Maple Lawn](https://en.wikipedia.org/wiki/Maple_Lawn,_Fulton,_Maryland) in Howard County, Maryland.  
+Unofficial free(like freedom) web page for [Maple Lawn](https://en.wikipedia.org/wiki/Maple_Lawn,_Fulton,_Maryland) in Howard County, Maryland.  
 
 [Official Maple Lawn Page is found here](https://maplelawnmd.com/).  
 

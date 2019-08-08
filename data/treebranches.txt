@@ -1,4 +1,5 @@
 [
     "faq",
-    "maps"
+    "maps",
+    "replicator"
 ]
