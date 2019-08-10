@@ -18,19 +18,32 @@
 
 **How can I use this network to help my local Maple Lawn business make more money? Or place an ad here?**Unlike search engines which are for profit businesses, this is just a free page with links on it.  As a hobby, users of the network will be adding links to businesses.
 
+**I'm with some official Maple Lawn thing like a HOA or business association and you're messing up the Maple Lawn brand with your eccentric art project can you please not use the maple lawn name in your domain?** I got this domain for like 10 dollars on a whim, and if you want it and have a good reason I'll sign it over in exchange for some other random domain or lunch or something.  One of the ideas of this type of web page is that domains don't matter so much.  You key it in once and then it's all links.  
 
-- How can I use this network to connect with other Maple Lawn residents?
-- What can I use this network for?
-- how to I make a new page?
-- If every page is freely editable, aren't you worried about hackers, malware and cybersecurity in general?
+**How can I use this network to connect with other Maple Lawn residents?** Make a bulletin board tied to a physical location, a virtual board that corresponds to a physical bulletin board like place.  Then you can just put up a piece of physical media in that real place that has the address of your virtual board and you've linked your online space to the physical space and vice versa( by linking to your online board via maps and other links in the existing network).  I'll show you how to do this, email me.
+
+**What can I use this network for?** Everything you would use the regular Web for *except* personal stuff: never post anything personal/private on here. But other than that, any advertising, sharing of ideas, meeting people, discussion, news postings etc that you might see on a public-facing social media feed can work here.  If the format is not quite right, it's easy to rewrite the code and make it do what you want, to build live web apps that do anything that doesn't require a database and private logins.  
+
+
+**how to I make a new page?** Click on the icon for list.html next to the edit icon from any page to see the sub-pages and generate new ones.  Then put the name of the new page or map in the correct field, hit enter, and click on the link.  Email for demos and tutorial.
+
+**If every page is freely editable, aren't you worried about hackers, malware and cybersecurity in general?** There are two kinds of files on this server: functional code and data/content.  Functional code is mostly repetitions of the same files again and again, which can be repopulated in seconds using a php script that gets the code from a remote repository on the web(on Github).  Content like this FAQ are backed up using a content tree replicator that is backed up in the same way.  Anyone trained in the software here will know how to run either of these replicator programs, and no passwords are needed to do so.  So unlike a Wordpress site which can easily be hacked, but then only the admin can fix it, this can be equally easily hacked *but* any user can fix it. We rely on the fact that most networks have more people who like to fix things than break things, as does the physical world. 
+
 - why did you write this?
 - this network seems cool and I want one in my area, how do I do that?
-- where is this network hosted?
-- under what license is the code for this network?
-- I posted a thing and it's deleted and I want it back!
-- why is your code so bad?
-- why do you use php for server side code?
-- how come there are no usernames, passwords, logins, etc?
+
+**where is this network hosted?** Dreamhost.
+
+**Under what license is the code for this network?** All code here is PUBLIC DOMAIN with no restrictions or IP "rights" whatsoever.  It was written by someone who believes that claiming to "own" code is a crime against humanity.  I do not share the view of the "open source" community that there are ways to claim ownership of code that are non-evil if you just pay some lawyers to write the right words.  ALL IP associated with ALL code is totally immoral in ALL cases.  This was written by me and possibly other anon contributors during a time when I was unemployed some years ago.
+
+**I posted a thing and it's deleted and I want it back!** Please, again *please* don't put anything up here that you don't want deleted unless you back it up yourself somewhere.  Think of this like a chalk board: you can write stuff but there is an eraser sitting right there just waiting to be used.  That said, nothing is stopping people from writing archive scripts to save things randomly, so don't *assume* things are deleted if that's what you want.  Just as with the chalk board someone could always photograph what you write on it with a smartphone and put it on Instagram, or they could erase it--you must assume either is possible.  I will not be doing any automatic archiving though.
+
+**why is your code so bad?** I'm not a software developer.  I'm a person who spent some time learning from w3schools and trial and error.
+
+**why do you use php for server side code? I really think you should use Ruby, or node, or some Python framework or some other thing that I really want to talk to you about**  I use php for one reason: it works everywhere.  No command line installs, no dedicated hosting needed, nothing fancy. Just put a file on the server, point a browser at it and it goes. And it runs on macos(php comes installed), windows(you can use MAMP or install php under the ubuntu that runs under windows), Raspberry Pi, random free web hosting services, and shared hosting.  
+
+**How come there are no usernames, passwords, logins, etc?** This is a different model for the Web than we've been using since the rise of Web 2.0.  Before the rise of social media, web pages had generally a single author, were basically static, and then many people would in theory come read that page.  Then with the rise of social media we got dynamic pages that index vast databases of personal data, where each user shares their own personal stash of information with all the other users in a many-to-many model.  But the information is personal, and very much tied to its creator.  These pages assume a model where in the future the number of web pages vastly exceeds the number of people.  In this scenario personal logins, passwords and online identities are totally impractical and defeat the whole functioning of the network.  To illustrate consider that a page like this might be just a few kilobytes, but that even a 10 dollar raspberry pi based web server or free web hosting service will easily have gigabytes of space.  In theory this means each server on a network might have many 10's of thousands of pages. We're already at a point where the number of web enabled devices that could in theory act as servers is comparable to the number of people on the planet.  Thus we can easily envision a network in which there are many 10's or 100's of thousands of web pages *for each human mind in existence!*
+
 
 
 [link up a level to main page](../)
