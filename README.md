@@ -21,3 +21,5 @@ This page is all open.  Click on the edit icon to edit any given page. The edit 
 [replicator](replicator/)
 
 [businesses](businesses/)
+
+[motd(message of the day)](motd/)
