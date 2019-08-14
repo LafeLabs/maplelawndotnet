@@ -1,5 +1,10 @@
 # Maplelawn[dot]net
 
+### Self-replicating (organic) media
+
+### [FAQ](faq/)
+
+
 Unofficial free(like freedom) web page for [Maple Lawn](https://en.wikipedia.org/wiki/Maple_Lawn,_Fulton,_Maryland) in Howard County, Maryland.  
 
 [Official Maple Lawn Page is found here](https://maplelawnmd.com/).  
@@ -8,9 +13,13 @@ Unofficial free(like freedom) web page for [Maple Lawn](https://en.wikipedia.org
 
 [www.openstreetmap.org pointed at Maple Lawn](https://www.openstreetmap.org/#map=16/39.1487/-76.9067)
 
-This page is all open.  Click on the edit icon to edit any given page. The edit icon looks like this:
+This page and all the various pages below it are all freely editable.  Click on the edit icon to edit any given page. The edit icon looks like this:
 
 ![](iconsymbols/editor.svg)
+
+Click on the "list" icon to see a list of sub-pages to any given page, next to the edit icon.  The list icon looks like this:
+
+![](iconsymbols/tree.svg)
 
 ## Some sub-pages:
 
